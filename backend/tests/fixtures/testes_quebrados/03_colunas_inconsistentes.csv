@@ -1,0 +1,5 @@
+id,nome_cliente,cidade,estado,data_venda,produto,categoria,quantidade,valor_unitario,valor_total,comentario
+1,Carlos Silva,Belém,PA,15/03/2026,Notebook Dell,Eletrônicos,1,3200.0,3200.0,Ótima compra
+2,Maria Oliveira,São Paulo,SP,2026-03-16,Mouse Logitech,Acessórios,2,89.9
+3,João Souza,Rio de Janeiro,RJ,17/03/2026,Teclado Mecânico,Acessórios,1,250.0,250.0,Bom,Extra,Coluna,A,Mais
+4,Ana Costa,Marabá,PA,18-03-2026,Monitor LG,Eletrônicos,3,899.0,2697.0,Chegou rápido

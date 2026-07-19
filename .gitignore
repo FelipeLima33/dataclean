@@ -1,0 +1,22 @@
+# Root gitignore for DataCleaner
+
+# Ignore the virtual environment in backend
+backend/venv/
+backend/.venv/
+backend/env/
+
+# Ignore backend secrets
+backend/.env
+backend/.env.local
+
+# Ignore frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# General IDE and OS garbage
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

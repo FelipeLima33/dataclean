@@ -1,0 +1,79 @@
+id,nome_cliente,cidade,estado,data_venda,produto,categoria,quantidade,valor_unitario,valor_total,comentario
+7,Maria Oliveira,SP,PA,13/03/2026,Monitor LG 24pol,Eletrônicos,2,899.0,1798.0,"Chegou antes do prazo, muito bom"
+46,Diego Barbosa,MARABÁ,PA,01-01-2026,SSD 500GB Kingston,Eletrônicos,4,340.0,1360.0,"Ótimo custo benefício, recomendo"
+17,Amanda Nascimento,,SP,2026-06-04,notebook dell,Eletrônicos,3,3200.0,9600.0,
+20,Diego Barbosa,Belém,PA,2026-07-26,Teclado Mecânico,Acessórios,3,250.0,750.0,
+12,Pedro Santos,ananindeua,SP,25/05/2026,Headset HyperX,Acessórios,5,320.0,1600.0,"Não gostei, embalagem veio danificada"
+6,Vanessa Cardoso,santarem,SP,24/02/2026,Headset HyperX,Acessórios,4,320.0,1280.0,
+4,Thiago Carvalho,,PA,2026-05-03,Monitor LG 24Pol,Eletrônicos,5,899.0,4495.0,"Não gostei, embalagem veio danificada"
+3,Larissa Ribeiro,Ananindeua,RJ,2026-07-07,Mouse Logitech,Acessórios,1,89.9,89.9,"Produto veio com defeito, péssimo atendimento"
+38,Camila Ferreira,SP,SP,01/01/2026,Mouse Logitech,Acessórios,4,89.9,,"Chegou antes do prazo, muito bom"
+41,Gustavo Araújo,Rio de Janeiro,PA,2026-06-06,Cadeira Gamer,Móveis,4,1100.0,4400.0,"Excelente qualidade, superou expectativas"
+65,Camila Ferreira,rio de janeiro,PA,23-03-2026,Cadeira Gamer,Móveis,4,1100.0,4400.0,
+52,Patrícia Gomes,santarem,PA,05/04/2026,Impressora HP,Eletrônicos,5,780.0,3900.0,"Produto razoável, nada excepcional"
+8,Thiago Carvalho,Belém ,RJ,08-06-2026,Mouse Logitech,Acessórios,5,89.9,449.5,"Excelente qualidade, superou expectativas"
+56,Juliana Pereira, São Paulo,PA,16-05-2026,Monitor LG 24pol,Eletrônicos,3,899.0,2697.0,
+45,Larissa Ribeiro,RJ,PA,11-06-2026,Monitor LG 24Pol,Eletrônicos,-1,899.0,3596.0,"Recomendo a loja, ótima experiência de compra"
+60,Ana Costa,BELÉM,PA,03-05-2026,Cadeira Gamer,Móveis,1,1100.0,1100.0,"Ótimo custo benefício, recomendo"
+58,Camila Ferreira,,SP,08/03/2026,Teclado Mecânico,Acessórios,3,250.0,750.0,"Entrega rápida, muito satisfeito com o produto"
+48,Maria Oliveira,Belém,SP,27-01-2026,Mouse  Logitech ,Acessórios,2,89.9,179.8,Demorou muito para chegar mas o produto é bom
+37,Rafael Alves,Marabá,PA,06/06/2026,Impressora HP,Eletrônicos,3,780.0,2340.0,"Atendimento excelente, produto de qualidade"
+5,João Souza,SP,PA,09-04-2026,Monitor LG 24Pol,Eletrônicos,3,899.0,2697.0,"Ótimo custo benefício, recomendo"
+40,Beatriz Correia,SP,PA,2026-07-05,Cadeira Gamer,Móveis,5,1100.0,5500.0,"Atendimento excelente, produto de qualidade"
+26,Bruno Rodrigues,Belém-PA,PA,2026-02-18,Impressora HP,Eletrônicos,3,780.0,2340.0,"Chegou antes do prazo, muito bom"
+39,Diego Barbosa,RJ,PA,05-06-2026,Mouse  Logitech ,Acessórios,1,89.9,89.9,"Produto veio com defeito, péssimo atendimento"
+42,Juliana Pereira,S. Paulo,PA,23/03/2026,notebook dell,Eletrônicos,3,3200.0,9600.0,"Não gostei, embalagem veio danificada"
+34,Larissa Ribeiro,Belém,PA,22-06-2026,Headset HyperX,Acessórios,2,320.0,640.0,"Não gostei, embalagem veio danificada"
+24,João Souza,Belém,PA,19/01/2026,Webcam Logitech,Acessórios,5,210.0,1050.0,Demorou muito para chegar mas o produto é bom
+11,Fernanda Lima,rio de janeiro,PA,24-03-2026,Impressora HP,Eletrônicos,2,780.0,1560.0,"Atendimento excelente, produto de qualidade"
+2,Juliana Pereira,Marabá,PA,18-02-2026,Notebook Dell,Eletrônicos,5,3200.0,16000.0,
+14,Fernanda Lima,S. Paulo,PA,14-02-2026,Webcam Logitech,Acessórios,2,210.0,420.0,"Recomendo a loja, ótima experiência de compra"
+57,Juliana Pereira,Belém-PA,SP,04-06-2026,Monitor LG 24pol,Eletrônicos,2,899.0,1798.0,Demorou muito para chegar mas o produto é bom
+28,Larissa Ribeiro,maraba,PA,03/06/2026,notebook dell,Eletrônicos,5,3200.0,16000.0,"Entrega rápida, muito satisfeito com o produto"
+15,Ana Costa,SP,SP,11-01-2026,notebook dell,Eletrônicos,5,3200.0,,Demorou muito para chegar mas o produto é bom
+49,Patrícia Gomes,São Paulo,PA,24/06/2026,Webcam Logitech,Acessórios,2,210.0,,"Excelente qualidade, superou expectativas"
+16,Maria Oliveira,Ananindeua,PA,08-03-2026,Headset HyperX,Acessórios,4,320.0,1280.0,Demorou muito para chegar mas o produto é bom
+13,Juliana Pereira,belem,SP,03-01-2026,Webcam Logitech,Acessórios,4,210.0,840.0,"Produto veio com defeito, péssimo atendimento"
+21,Rafael Alves, São Paulo,SP,19-06-2026,Notebook Dell,Eletrônicos,1,3200.0,,"Recomendo a loja, ótima experiência de compra"
+30,Fernanda Lima,São Paulo,PA,2026-06-06,Notebook Dell,Eletrônicos,4,3200.0,12800.0,"Produto razoável, nada excepcional"
+68,Ana Costa,São Paulo,RJ,2026-04-23,Monitor LG 24Pol,Eletrônicos,4,14672.486305581508,58689.95,"Atendimento excelente, produto de qualidade"
+44,Rodrigo Dias,Ananindeua-PA,PA,2026-03-12,Notebook Dell,Eletrônicos,4,3200.0,12800.0,"Atendimento excelente, produto de qualidade"
+64,Rafael Alves,Rio de Janeiro,PA,08/06/2026,Headset HyperX,Acessórios,3,320.0,960.0,"Ótimo custo benefício, recomendo"
+60,Ana Costa,BELÉM,PA,03-05-2026,Cadeira Gamer,Móveis,1,1100.0,1100.0,"Ótimo custo benefício, recomendo"
+23,Larissa Ribeiro,MARABÁ,PA,11/03/2026,Headset HyperX,Acessórios,3,320.0,960.0,Demorou muito para chegar mas o produto é bom
+31,Maria Oliveira,RJ,SP,2026-04-27,Mouse  Logitech ,Acessórios,3,89.9,269.7,Demorou muito para chegar mas o produto é bom
+71,Carlos Silva,Belém,PA,10/02/2026,Notebook Dell,Eletrônicos,1,3200.0,3200.0,Ótima compra
+29,Maria Oliveira,ananindeua,SP,08/06/2026,SSD 500GB Kingston,Eletrônicos,3,340.0,1020.0,"Atendimento excelente, produto de qualidade"
+10,Thiago Carvalho,Marabá,RJ,28-01-2026,Headset HyperX,Acessórios,1,320.0,320.0,"Produto razoável, nada excepcional"
+16,Maria Oliveira,Ananindeua,PA,08-03-2026,Headset HyperX,Acessórios,4,320.0,1280.0,Demorou muito para chegar mas o produto é bom
+43,Rafael Alves,BELÉM,PA,2026-05-11,Monitor LG 24Pol,Eletrônicos,4,899.0,3596.0,"Entrega rápida, muito satisfeito com o produto"
+63,Amanda Nascimento, São Paulo,PA,2026-06-10,Mouse  Logitech ,Acessórios,4,89.9,359.6,"Produto veio com defeito, péssimo atendimento"
+38,Camila Ferreira,SP,SP,01/01/2026,Mouse Logitech,Acessórios,4,89.9,,"Chegou antes do prazo, muito bom"
+20,Diego Barbosa,Belém,PA,2026-07-26,Teclado Mecânico,Acessórios,3,250.0,750.0,
+47,Lucas Martins,Ananindeua-PA,RJ,09/07/2026,Monitor LG 24Pol,Eletrônicos,4,899.0,,"Entrega rápida, muito satisfeito com o produto"
+70,Camila Ferreira,rio de janeiro,PA,01-06-2026,notebook dell,Eletrônicos,2,3200.0,6400.0,"Recomendo a loja, ótima experiência de compra"
+1,Ana Costa,Belém,RJ,08-02-2026,Mouse  Logitech ,Acessórios,1,89.9,89.9,
+53,Rodrigo Dias,S. Paulo,RJ,2026-01-27,Mouse  Logitech ,Acessórios,4,89.9,359.6,Demorou muito para chegar mas o produto é bom
+67,Fernanda Lima,RJ,PA,15/03/2026,SSD 500GB Kingston,Eletrônicos,5,340.0,1700.0,
+33,Ana Costa,Santarém,PA,2026-07-24,Monitor LG 24pol,Eletrônicos,4,899.0,3596.0,"Chegou antes do prazo, muito bom"
+64,Rafael Alves,Rio de Janeiro,PA,08/06/2026,Headset HyperX,Acessórios,3,320.0,960.0,"Ótimo custo benefício, recomendo"
+22,Maria Oliveira,Marabá,PA,03/05/2026,Mouse Logitech,Acessórios,2,89.9,179.8,
+27,Bruno Rodrigues,belem,PA,2026-07-14,SSD 500GB Kingston,Eletrônicos,1,340.0,340.0,"Entrega rápida, muito satisfeito com o produto"
+55,João Souza,,PA,18/07/2026,Cadeira Gamer,Móveis,4,1100.0,4400.0,"Produto razoável, nada excepcional"
+51,Rodrigo Dias,belem,RJ,2026-06-14,Headset HyperX,Acessórios,1,320.0,,"Atendimento excelente, produto de qualidade"
+69,Carlos Silva,maraba,PA,02-02-2026,Monitor LG 24Pol,Eletrônicos,3,899.0,2697.0,"Chegou antes do prazo, muito bom"
+36,Fernanda Lima,Santarém,PA,13/05/2026,Teclado Mecânico,Acessórios,3,250.0,750.0,"Excelente qualidade, superou expectativas"
+9,Pedro Santos,Marabá,PA,25/01/2026,notebook dell,Eletrônicos,2,3200.0,6400.0,"Produto razoável, nada excepcional"
+18,Maria Oliveira,Ananindeua-PA,RJ,08/02/2026,notebook dell,Eletrônicos,5,3200.0,16000.0,
+72,carlos silva,belem,PA,2026-02-10,notebook dell,Eletrônicos,1,3200.0,3200.0,Otima compra
+25,Camila Ferreira,São Paulo,PA,23-03-2026,Headset HyperX,Acessórios,5,320.0,1600.0,"Entrega rápida, muito satisfeito com o produto"
+50,Diego Barbosa,sao paulo,PA,23-07-2026,Webcam Logitech,Acessórios,2,210.0,420.0,"Produto veio com defeito, péssimo atendimento"
+19,Beatriz Correia,Belém-PA,PA,18/07/2026,SSD 500GB Kingston,Eletrônicos,1,340.0,340.0,Demorou muito para chegar mas o produto é bom
+15,Ana Costa,SP,SP,11-01-2026,notebook dell,Eletrônicos,5,3200.0,,Demorou muito para chegar mas o produto é bom
+59,Pedro Santos,santarem,PA,28-01-2026,notebook dell,Eletrônicos,3,3200.0,9600.0,
+32,Bruno Rodrigues,ananindeua,PA,22-07-2026,Monitor LG 24Pol,Eletrônicos,3,899.0,2697.0,"Entrega rápida, muito satisfeito com o produto"
+61,Larissa Ribeiro,Santarém,PA,08-07-2026,Webcam Logitech,Acessórios,4,210.0,840.0,
+62,Maria Oliveira,Santarém,PA,2026-02-21,Mouse  Logitech ,Acessórios,1,89.9,89.9,"Ótimo custo benefício, recomendo"
+54,Lucas Martins,São Paulo,PA,2026-07-12,Mouse  Logitech ,Acessórios,3,89.9,269.7,
+35,Ana Costa, São Paulo,PA,2026-04-22,Teclado Mecânico,Acessórios,4,250.0,1000.0,"Recomendo a loja, ótima experiência de compra"
+66,Lucas Martins,Santarém,RJ,03-02-2026,Notebook Dell,Eletrônicos,5,3200.0,16000.0,"Chegou antes do prazo, muito bom"

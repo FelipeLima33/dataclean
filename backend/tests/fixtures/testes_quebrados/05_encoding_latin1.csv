@@ -1,0 +1,3 @@
+id,nome_cliente,cidade,estado,data_venda,produto,categoria,quantidade,valor_unitario,valor_total,comentario
+1,Carlos Silva,Belém,PA,15/03/2026,Notebook Dell,Eletrônicos,1,3200.0,3200.0,Ótima compra e entrega rápida
+2,João Souza,São Paulo,SP,16/03/2026,Monitor LG,Eletrônicos,2,899.0,1798.0,Produto excelente
