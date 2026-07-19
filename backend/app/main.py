@@ -10,10 +10,10 @@ from app.api.routes import storage_route
 
 app = FastAPI(title="DataClean API")
 
-# Configuração de CORS (permitir chamadas do frontend em desenvolvimento local)
+# Configuração de CORS
 origins = [
+    "https://dataclean-ten.vercel.app",
     "http://localhost:5173",
-    "http://127.0.0.1:5173",
 ]
 
 app.add_middleware(
